@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drip", "Drip\Drip.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wholeglasses", "Wholeglasses\Wholeglasses.csproj", "{151DEE28-D411-46C9-84C1-7B037614CF4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputValidation", "InputValidation\InputValidation.csproj", "{44CBF9EF-2BD0-480B-9061-058DF283EE5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{151DEE28-D411-46C9-84C1-7B037614CF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{151DEE28-D411-46C9-84C1-7B037614CF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{151DEE28-D411-46C9-84C1-7B037614CF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CBF9EF-2BD0-480B-9061-058DF283EE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CBF9EF-2BD0-480B-9061-058DF283EE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CBF9EF-2BD0-480B-9061-058DF283EE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CBF9EF-2BD0-480B-9061-058DF283EE5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
